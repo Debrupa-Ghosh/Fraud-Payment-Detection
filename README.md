@@ -1,4 +1,4 @@
-Fraud Payment Detection: 
+Fraud Payment Detection Model: 
 
 •	Built payment fraud detection models in Python (scikit learn, imbalanced learn), with pipelines for preprocessing, resampling (SMOTE/undersampling), and model tuning; emphasized recall/PR AUC over accuracy for imbalanced data. 
 
